@@ -1,0 +1,18 @@
+public class Twosum{
+    public static int twoSum(int arr[], int target){
+        for(int i=0; i<n; i++){
+            for(int j=i+1; j<n; j++){
+                if(i+j=target){
+                    return yes;
+                }
+                else 
+                return no;
+            }
+        }
+    }
+    public static void main(String args[]){
+        int arr[]={2,6,5,8,11};
+        int target=14;
+        System.out.println("The sum of two index is: " +twoSum);
+    }
+}
